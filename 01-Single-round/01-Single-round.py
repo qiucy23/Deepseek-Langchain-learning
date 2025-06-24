@@ -11,8 +11,7 @@ load_dotenv()
 model = ChatDeepSeek(
     model_name="deepseek-chat",
     temperature=0.5,
-    max_tokens=1024,
-    api_key = "my-api-key",
+    max_tokens=1024
 )
 
 print(model.invoke("你是谁").content)
