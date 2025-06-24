@@ -1,0 +1,8 @@
+{
+  "_type": "prompt",
+  "input_variables": [
+    "company",
+    "product"
+  ],
+  "template": "我是由{company}公司开发的{product}智能应用。"
+}
