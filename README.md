@@ -30,3 +30,6 @@ source venv/bin/activate  # Windows 用 venv\Scripts\activate
 pip install -r requirements.txt
 ```
 ## 📌 TODO
+
+02-多轮对话
+03-格式控制
