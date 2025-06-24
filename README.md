@@ -1,4 +1,4 @@
-# LangChain-Learning
+# Deepseek-LangChain-Learning
 
 基于 DeeekSeek的LangChain 快速入门与关键模块实战记录。
 
